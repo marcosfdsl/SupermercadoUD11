@@ -10,7 +10,7 @@ public class JugadorBalonMano {
 	public JugadorBalonMano(String Nombre, int Dorsal) {
 		this.Nombre = Nombre;
 		this.Dorsal = Dorsal;	
-	}
+	} 
 
 	public void setAnotacion(int Anotacion) {
 		this.Anotacion = Anotacion;
